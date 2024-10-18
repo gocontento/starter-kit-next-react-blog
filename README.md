@@ -1,8 +1,13 @@
-## Welcome to the Blog Starter Kit for Contento
+## Contento Blog Starter Kit
 
 This starter kit has a page builder template, header and footer navs, a basic collection of composable content blocks
 and all you need for a blog. It’s designed to get you started using Contento, and is built with a familiar and popular
 tech stack ([Next.js](https://nextjs.org) & [Tailwind CSS](https://tailwindcss.com)).
+
+👉 [View Demo](https://blog-contento-starter.vercel.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☯️ [Contento Library Site](https://app.contento.io/library/site-starters?kit=s_01HnAC2W1gt2QJJ3xCcnB7D5nD)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 [User Guide](https://www.contento.io/docs/guides/starter-kits/the-blog)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Contento Docs](https://www.contento.io/docs)
 
 
 ## Getting Started
